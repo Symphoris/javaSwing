@@ -33,7 +33,7 @@ public class ChangeC extends JFrame implements ActionListener {
 		JPanel p4 = new JPanel();
 		JPanel p5 = new JPanel();
 		p1.setBackground(Color.RED);
-		p2.setBackground(Color.BLUE);
+		p2.setBackground(Color.BLACK);
 		p3.setBackground(Color.GREEN);
 		p4.setBackground(Color.GRAY);
 		p5.setBackground(Color.YELLOW);
